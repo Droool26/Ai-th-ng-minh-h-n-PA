@@ -1,2 +1,2 @@
 alarm = 0 ;
-room_goto(Room03);
+room_goto(Roomplayagain);

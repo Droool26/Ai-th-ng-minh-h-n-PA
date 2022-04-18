@@ -28,7 +28,7 @@
   "overriddenProperties": [],
   "parent": {
     "name": "Cau 05",
-    "path": "folders/Objects/5 cau hoi/Cau 05.yy",
+    "path": "folders/Objects/15 cau hoi/Cau 05.yy",
   },
   "resourceVersion": "1.0",
   "name": "Obj_Q5",
